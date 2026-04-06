@@ -9,6 +9,8 @@
 !
 !
 !
+! https://github.com/AdguardTeam/AdguardFilters/issues/228399
+financialtrust.info#%#//scriptlet('abort-on-property-write', 'window.AdBlockDetector')
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228134
 ! https://github.com/AdguardTeam/AdguardFilters/issues/228135
 deemixer.com,arlx.site#@#.banner-ad
